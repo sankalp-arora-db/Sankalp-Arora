@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-arora-db&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-arora-db" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-arora-db&theme=onedark" alt="sankalp-arora-db" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-arora-db" alt="sankalp-arora-db" /></a> </p>
 
 - 🔭 I’m currently working on [Strategic Transaction Monitoring](https://github.com/y253-q6ix)
 
